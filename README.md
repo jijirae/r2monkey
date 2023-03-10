@@ -18,5 +18,5 @@ Step 2. Click the button below.<br>&emsp;[![button (3)](https://user-images.gith
 <h1>Disclaimer</h1>
 
 
-<i>Please note that "r2monkey" is not affiliated, associated, endorsed, or sponsored by rapidsave.com or Violetmonkey.</i>
+<i>Please note that "r2monkey" is not affiliated, associated, endorsed, or sponsored by rapidsave.com or Violentmonkey.</i>
 
